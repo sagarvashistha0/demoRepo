@@ -1,2 +1,2 @@
 # demoRepo
-Author - Aditya Kumar Gaur
+Author - Aditya Gaur.
